@@ -1,0 +1,6 @@
+{
+  "name": "RailSanctuary",
+  "description": "A soothing, stress-free train booking application featuring elegant seat selection, passenger details form, dynamic ticket summaries, and intuitive booking steps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
